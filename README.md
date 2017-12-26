@@ -1,2 +1,2 @@
 # db_project
-nodejs+mongodb
+nodejs+sqlite
